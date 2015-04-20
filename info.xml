@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="coop.palantetech.facebookconversionpixel" type="module">
+  <file>facebookconversionpixel</file>
+  <name>Facebook Conversion Pixel</name>
+  <description>Inserts a Facebook Conversion Pixel on a contribution Thank-You page.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Jon Goldberg</author>
+    <email>jon@palantetech.coop</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">http://FIXME</url>
+    <url desc="Documentation">http://FIXME</url>
+    <url desc="Support">http://FIXME</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2015-04-20</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.4</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Facebookconversionpixel</namespace>
+  </civix>
+</extension>
