@@ -11,4 +11,4 @@
 })();
 
 window._fbq = window._fbq || [];
-window._fbq.push(['track', '6029288778153', {'value':'0.00','currency':'USD'}]);
+window._fbq.push(['track', '<your tracking code here>', {'value':'0.00','currency':'USD'}]);
